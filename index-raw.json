@@ -1,0 +1,296 @@
+[
+  {
+    "name": "4399漫画网",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/mh4399.js",
+    "filename": "mh4399.js",
+    "version": "1.0.3",
+    "description": "key=mh4399"
+  },
+  {
+    "name": "51漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manga51.js",
+    "filename": "manga51.js",
+    "version": "1.2.0",
+    "description": "key=manga51"
+  },
+  {
+    "name": "爱看漫",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/ikmmh_v2.js",
+    "filename": "ikmmh_v2.js",
+    "version": "3.0.0",
+    "description": "key=ikmmh_v2；站点近期实测不可达"
+  },
+  {
+    "name": "爱奇艺漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/iqiyi1.js",
+    "filename": "iqiyi1.js",
+    "version": "1.1.0",
+    "description": "key=iqiyi_comic"
+  },
+  {
+    "name": "百合会",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/baihehui.js",
+    "filename": "baihehui.js",
+    "version": "1.0.0",
+    "description": "key=baihehui"
+  },
+  {
+    "name": "包子漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/baozi.js",
+    "filename": "baozi.js",
+    "version": "1.1.6",
+    "description": "key=baozi"
+  },
+  {
+    "name": "嗶哩漫畫",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/bilimanga.js",
+    "filename": "bilimanga.js",
+    "version": "1.1.3",
+    "description": "key=bilimanga"
+  },
+  {
+    "name": "咚漫",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/dongmanmanhua.js",
+    "filename": "dongmanmanhua.js",
+    "version": "1.0.6",
+    "description": "key=dongmanmanhua"
+  },
+  {
+    "name": "动漫啦",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/dongman_la.js",
+    "filename": "dongman_la.js",
+    "version": "2.0.1",
+    "description": "key=dongman_la_v3"
+  },
+  {
+    "name": "动漫啦",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/dongman_la_fixed_v101.js",
+    "filename": "dongman_la_fixed_v101.js",
+    "version": "1.0.1",
+    "description": "key=dongman_la；站点近期实测不可达"
+  },
+  {
+    "name": "动漫屋",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/dm5.js",
+    "filename": "dm5.js",
+    "version": "7.0.2",
+    "description": "key=dm5"
+  },
+  {
+    "name": "飞翔漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/ffppt.js",
+    "filename": "ffppt.js",
+    "version": "1.0.1",
+    "description": "key=ffppt"
+  },
+  {
+    "name": "古风漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/gfmh_3.js",
+    "filename": "gfmh_3.js",
+    "version": "1.3.0",
+    "description": "key=GfmhApp"
+  },
+  {
+    "name": "瓜子漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/guazi_manhua_v1.1.0.js",
+    "filename": "guazi_manhua_v1.1.0.js",
+    "version": "1.0.4",
+    "description": "key=guazimanhua"
+  },
+  {
+    "name": "拷贝漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/copy_manga5.js",
+    "filename": "copy_manga5.js",
+    "version": "1.6.5",
+    "description": "key=copy_manga"
+  },
+  {
+    "name": "来漫画（分流）",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/laimanhua_split_hosts_v1.2.1_configurable.js",
+    "filename": "laimanhua_split_hosts_v1.2.1_configurable.js",
+    "version": "1.2.1",
+    "description": "key=laimanhua_split"
+  },
+  {
+    "name": "漫画柜",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manhuagui.js",
+    "filename": "manhuagui.js",
+    "version": "1.2.1",
+    "description": "key=ManHuaGui"
+  },
+  {
+    "name": "漫画人",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manhuaren.js",
+    "filename": "manhuaren.js",
+    "version": "1.0.0",
+    "description": "key=manhuaren"
+  },
+  {
+    "name": "漫客栈",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/mkzhan.js",
+    "filename": "mkzhan.js",
+    "version": "1.0.0",
+    "description": "key=mkzhan"
+  },
+  {
+    "name": "漫蛙吧",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manwaba_fixed_v113.js",
+    "filename": "manwaba_fixed_v113.js",
+    "version": "1.1.3",
+    "description": "key=manwaba"
+  },
+  {
+    "name": "漫网",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manwang_fixed_v120.js",
+    "filename": "manwang_fixed_v120.js",
+    "version": "1.2.0",
+    "description": "key=manwang；站点近期实测不可达"
+  },
+  {
+    "name": "如漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/rumanhua_fixed_v16.js",
+    "filename": "rumanhua_fixed_v16.js",
+    "version": "1.2.6",
+    "description": "key=rumanhua_fixed_v15"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/shonen_jump_plus.js",
+    "filename": "shonen_jump_plus.js",
+    "version": "1.1.1",
+    "description": "key=shonen_jump_plus"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/tencent_comic_official_2.js",
+    "filename": "tencent_comic_official_2.js",
+    "version": "1.0.3",
+    "description": "key=qq_comic_official_v1"
+  },
+  {
+    "name": "图库漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/tuku_cc.js",
+    "filename": "tuku_cc.js",
+    "version": "1.0.1",
+    "description": "key=tuku_cc"
+  },
+  {
+    "name": "嬉皮漫畫",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/hipmh.js",
+    "filename": "hipmh.js",
+    "version": "1.0.1",
+    "description": "key=hipmh"
+  },
+  {
+    "name": "香蕉漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manhuauo_fixed_v2.js",
+    "filename": "manhuauo_fixed_v2.js",
+    "version": "1.0.3",
+    "description": "key=manhuauo_banana_v2"
+  },
+  {
+    "name": "优酷漫画 (修复版)",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/youku.js",
+    "filename": "youku.js",
+    "version": "1.0.6",
+    "description": "key=ykmh"
+  },
+  {
+    "name": "再漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/zaimanhua.js",
+    "filename": "zaimanhua.js",
+    "version": "1.0.2",
+    "description": "key=zaimanhua"
+  },
+  {
+    "name": "CCC追漫台",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/ccc.js",
+    "filename": "ccc.js",
+    "version": "1.0.1",
+    "description": "key=ccc"
+  },
+  {
+    "name": "comick",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/comick.js",
+    "filename": "comick.js",
+    "version": "1.2.0",
+    "description": "key=comick"
+  },
+  {
+    "name": "GoDa漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/goda.js",
+    "filename": "goda.js",
+    "version": "1.2.1",
+    "description": "key=goda"
+  },
+  {
+    "name": "Komiic",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/komiic_dual.js",
+    "filename": "komiic_dual.js",
+    "version": "1.0.8",
+    "description": "key=Komiic"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/manga_dex.js",
+    "filename": "manga_dex.js",
+    "version": "1.1.1",
+    "description": "key=manga_dex"
+  },
+  {
+    "name": "MOJOIN",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/mojoin_fixed_v107.js",
+    "filename": "mojoin_fixed_v107.js",
+    "version": "1.0.7",
+    "description": "key=mojoin_v2"
+  },
+  {
+    "name": "MYCOMIC",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/mycomic.js",
+    "filename": "mycomic.js",
+    "version": "1.1.0",
+    "description": "key=mycomic"
+  },
+  {
+    "name": "NoyManga",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/noymanga.js",
+    "filename": "noymanga.js",
+    "version": "1.1.3",
+    "description": "key=noymanga"
+  },
+  {
+    "name": "Rawkuma",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/rawkuma.js",
+    "filename": "rawkuma.js",
+    "version": "1.1.0",
+    "description": "key=rawkuma"
+  },
+  {
+    "name": "SF漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/sfacg_manhua.js",
+    "filename": "sfacg_manhua.js",
+    "version": "1.0.0",
+    "description": "key=sfacg_manhua"
+  },
+  {
+    "name": "W漫画",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/wmanhua.js",
+    "filename": "wmanhua.js",
+    "version": "1.0.1",
+    "description": "key=wmanhua"
+  },
+  {
+    "name": "zero搬运网",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/zerobyw33.js",
+    "filename": "zerobyw33.js",
+    "version": "1.2.0",
+    "description": "key=zerobyw33"
+  },
+  {
+    "name": "カドコミ",
+    "url": "https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/sources/comic_walker.js",
+    "filename": "comic_walker.js",
+    "version": "1.0.1",
+    "description": "key=comic_walker"
+  }
+]
