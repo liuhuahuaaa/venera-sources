@@ -8,9 +8,12 @@
 
 | 线路 | URL |
 |---|---|
-| gh-proxy 镜像（推荐） | `https://gh-proxy.com/https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/index.json` |
-| jsDelivr | `https://cdn.jsdelivr.net/gh/liuhuahuaaa/venera-sources@main/index.json` |
-| GitHub raw 直连 | `https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/index.json` |
+| gh-proxy 镜像（推荐） | `https://gh-proxy.com/https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/list.json` |
+| ghproxy.net 镜像 | `https://ghproxy.net/https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/list.json` |
+| jsDelivr（手机能通就用这个最快） | `https://cdn.jsdelivr.net/gh/liuhuahuaaa/venera-sources@main/index-jsdelivr.json` |
+| GitHub raw 直连 | `https://raw.githubusercontent.com/liuhuahuaaa/venera-sources/main/index-raw.json` |
+
+> 为什么主用 `list.json`：镜像站会缓存 `index.json` 的旧内容，换一个文件名可以避免拿到过期列表。
 
 然后在列表里勾选要装的源。
 
